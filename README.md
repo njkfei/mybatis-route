@@ -96,10 +96,11 @@ public class MybatisRouteConfiguration extends AbstractRoutingDataSource{
 }
 ```
 
-　其中见代码。
+
 
 
 本项目没有xml配置文件，全部以注解的方式，进行配置注入。
-
+#### 项目代码: [https://github.com/njkfei/mybatis-route.git](https://github.com/njkfei/mybatis-route.git)
 #### 项目参考：[www.websystique.com](http://www.websystique.com)
 #### 个人blog: [wiki.niejinkun.com](http://wiki.niejinkun.com)
+
